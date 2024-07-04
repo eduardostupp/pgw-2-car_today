@@ -1,3 +1,8 @@
+## Autores
+
+- **Eduardo Stupp**
+- **Lucas Mendonça**
+
 # Projeto de Site para Compra e Venda de Veículos
 
 Este projeto consiste em um site desenvolvido pelos alunos Eduardo Stupp e Lucas Mendonça como parte de um trabalho acadêmico. O site permite a compra e venda de veículos, oferecendo funcionalidades básicas para gerenciar o estoque de carros disponíveis e facilitar o processo de compra para os usuários.
@@ -16,7 +21,3 @@ Este projeto consiste em um site desenvolvido pelos alunos Eduardo Stupp e Lucas
 - PHP para o backend, incluindo conexão com banco de dados MySQL.
 - Banco de dados MySQL para armazenamento dos dados dos carros e usuários.
 
-## Autores
-
-- **Eduardo Stupp**
-- **Lucas Mendonça**
