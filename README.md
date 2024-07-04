@@ -20,7 +20,3 @@ Este projeto consiste em um site desenvolvido pelos alunos Eduardo Stupp e Lucas
 
 - **Eduardo Stupp**
 - **Lucas Mendonça**
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
